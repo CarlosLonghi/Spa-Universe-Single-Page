@@ -48,7 +48,7 @@ section {
 }
 
 .error404 {
-  background-image: url(/assets/space-404.jpg);
+  background-image: url(./assets/space-404.jpg);
 }
 
 nav {

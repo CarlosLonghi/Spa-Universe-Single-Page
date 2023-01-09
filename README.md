@@ -8,6 +8,6 @@ Desafio realizado no explorer, criado utilizando como base um projeto do Figma, 
 Instale o server do SPA Universe usando npm
 
 ```bash
-  npm install lite-server
+  npm install
   npm start
 ```
